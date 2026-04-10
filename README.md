@@ -62,6 +62,10 @@ Run the App:
 
 Bash
 python main.py
+
+
+
+run in browser,https://leadscoutmodel.onhercules.app/
 👤 Author
 Aayush3xe
 
