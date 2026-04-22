@@ -46,7 +46,7 @@ Data Handling: Pandas & CSV structured logging
 Clone the Repo:
 
 Bash
-git clone https://github.com/YOUR_USERNAME/LeadScout.git
+git clone https://github.com/Aayush3xe/LeadScout.git
 cd LeadScout
 Install Dependencies:
 
